@@ -1,0 +1,15 @@
+-r base.in
+
+pip-tools
+
+# Tests
+factory-boy
+coverage
+
+# Debug
+django-silk
+
+# Linting and Auto-formatting
+flake8
+autopep8
+pylint-django

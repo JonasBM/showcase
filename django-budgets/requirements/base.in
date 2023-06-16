@@ -1,0 +1,10 @@
+# ########## BASE ##########
+django~=3.2.0
+
+# ########## DJANGO EXTRAS ##########
+django-filter
+django-guardian
+uWSGI
+
+# ########## ENVIRONMENT VARIABLES ##########
+django-environ

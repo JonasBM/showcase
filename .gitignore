@@ -1,0 +1,6 @@
+*/staticfiles
+*/db.sqlite3
+.coverage
+__pycache__
+*.pyc
+*/.devcontainer
